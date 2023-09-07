@@ -1,12 +1,3 @@
-/**
-  Edita el archivo .js para crear el código necesario para que partiendo del array de puntuaciones propuesto se imprima por la consola el mejor y peor equipo con su total de puntos respectivo.
-
-  El resultado que tiene que aparecer en la consola al ejecutarlo debe ser exactamente igual a este: 
-
--> El mejor equipo es Toros Negros con un total de 28 puntos
--> El peor equipo es Ciervos Celestes con un total de 10 puntos
- */
-
 'use strict';
 
 // puntuaciones primera ronda
@@ -19,7 +10,7 @@ const firstRound = [
   { team: 'Mantis Verdes', scores: [1, 4, 5, 1, 3] },
   { team: 'Ciervos Celestes', scores: [3, 5, 1, 1] },
   { team: 'Pavos Reales Coral', scores: [2, 3, 2, 1, 4, 3] },
-  { team: 'Orcas Moradas', scores: [2, 3, 3, 4] },
+  { team: 'Orcas Moradas', scores: [2, 3, 3, 4] }
 ];
 
 // Creo un array nuevo a partir del original, con el nombre de los equipos
@@ -32,7 +23,7 @@ const totalPoints = firstRound.map((equipo) => {
     totalScore: equipo.scores.reduce((acc, score) => {
       // Devolver el total de puntos
       return acc + score;
-    }, 0),
+    }, 0)
   };
 });
 

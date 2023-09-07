@@ -1,3 +1,7 @@
-# Los ejercicios se muestran normalmente en la consola del navegador abriendo el archivo HTML,
+# Desafíos de JavaScript
 
-# enlaza el archivo .js que quieras en el atributo 'src' de la etiqueta script que esta dentro del archivo HTML.
+¡Bienvenido al repositorio de Desafíos de JavaScript! Aquí encontrarás una colección de desafíos diseñados para ayudarte a mejorar tus habilidades de programación en JavaScript.
+
+## Instrucciones
+
+Cada desafío se encuentra en su propia carpeta con un nombre descriptivo. Dentro de cada carpeta, encontrarás un archivo de JavaScript llamado `solucion.js` que contiene una plantilla en blanco para que puedas escribir tu solución.
