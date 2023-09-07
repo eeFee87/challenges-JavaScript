@@ -1,6 +1,6 @@
 # Desafíos de JavaScript
 
-¡Bienvenido al repositorio de Desafíos de JavaScript! Aquí encontrarás una colección de desafíos diseñados para ayudarte a mejorar tus habilidades de programación en JavaScript.
+¡Bienvenido al repositorio de Desafíos de JavaScript! Aquí encontrarás una colección de desafíos diseñados para mejorar mis habilidades de programación en JavaScript.
 
 ## Instrucciones
 
