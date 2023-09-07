@@ -4,4 +4,4 @@
 
 ## Instrucciones
 
-Cada desafío se encuentra en su propia carpeta con un nombre descriptivo. Dentro de cada carpeta, encontrarás un archivo de JavaScript llamado `solucion.js` que contiene una plantilla en blanco para que puedas escribir tu solución.
+Cada desafío se encuentra en su propia carpeta con un nombre descriptivo. Dentro de cada carpeta, encontrarás un archivo de JavaScript llamado `solucion.js` que contiene la solución y un archivo README.md que explica brevemente en que consiste el challenge.
